@@ -4,7 +4,7 @@
 **HOW TO USE**
 1. Inherit your scripts from SMonoBehaviour.
 2. Set the **Root** tag on the GameObject that will be associated with its child SMonoBehaviours.
-3. Get the component using the Instance id of the required **Root** GameObject.
+3. Get the component using the Instance id of the **Root** GameObject.
 
 Examples:
 ```csharp
